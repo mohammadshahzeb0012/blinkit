@@ -24,9 +24,11 @@
 /* Hero Section  */
 #hero-section {
     margin: auto;
-    margin-left: 120px;
-    /* display: flex;
-    justify-content: center; */
+    display: flex;
+    justify-content: center;
+}
+#hero-section > img{
+    width: 85vw;
 }
 
 /* Scrollable Div Section  */
