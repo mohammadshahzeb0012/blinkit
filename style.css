@@ -24,8 +24,9 @@
 /* Hero Section  */
 #hero-section {
     margin: auto;
-    display: flex;
-    justify-content: center;
+    margin-left: 120px;
+    /* display: flex;
+    justify-content: center; */
 }
 
 /* Scrollable Div Section  */
